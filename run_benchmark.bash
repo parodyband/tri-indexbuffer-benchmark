@@ -1,0 +1,1 @@
+odin run src/benchmark/app.odin -file && python benchmark_graph.py
